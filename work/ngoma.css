@@ -1,0 +1,33 @@
+.music{
+    display: inline-block;
+}
+.table{
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    background-color: gray;
+}
+.table-head{
+    background-color: aquamarine;
+    border-radius: 30px;
+}
+td{
+    border-radius: 10px;
+    background-color: white;
+}
+.author{
+    padding-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.video-01{
+    display: inline-block;
+}
+.video-02{
+    display: inline;
+}
+video{
+    width: 300px;
+    height: 200px;
+}
